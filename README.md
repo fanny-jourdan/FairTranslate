@@ -26,17 +26,3 @@ This repository provides two Jupyter notebooks that replicate the analysis and v
 2. [**`Analysis_inclusive_gender.ipynb`**:](Analysis_inclusive_gender.ipynb)
    Analyzes the translation of gendered forms of occupation and how inclusive gendered words are translated.
 
----
-
-## 💡 How to Cite
-
-If you use the dataset or findings from this paper, please cite the following:
-
-```bibtex
-@inproceedings{Jourdan2025FairTranslate,
-  title={FairTranslate: an English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity},
-  author={Jourdan, Fanny and Chevalier, Yannick and Favre, Cecile},
-  booktitle={Preprint},
-  year={2025},
-  url={https://arxiv.org/abs/todo}
-}
