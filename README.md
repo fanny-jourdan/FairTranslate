@@ -32,12 +32,17 @@ This repository provides two Jupyter notebooks that replicate the analysis and v
 If you use this code or FairTranslate dataset, please cite the associated paper.
 
 ```bibtex
-@misc{jourdan2025fairtranslateenglishfrench,
-      title={FairTranslate: An English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity}, 
-      author={Fanny Jourdan and Yannick Chevalier and Cécile Favre},
-      year={2025},
-      eprint={2504.15941},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2504.15941}, 
+@inproceedings{jourdan2025FairTranslate,
+  TITLE = {{FairTranslate: An English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity}},
+  AUTHOR = {Jourdan, Fanny and Chevalier, Yannick and Favre, C{\'e}cile},
+  URL = {https://hal.science/hal-05042789},
+  BOOKTITLE = {{8th annual ACM FAccT conference (FAccT 2025)}},
+  ADDRESS = {Ath{\`e}nes, Greece},
+  ORGANIZATION = {{ACM}},
+  YEAR = {2025},
+  MONTH = Jun,
+  KEYWORDS = {Fairness ; Natural Language Processing ; Translation ; LLM ; Gender},
+  PDF = {https://hal.science/hal-05042789v1/file/ACM_FAccT_Conference-4.pdf},
+  HAL_ID = {hal-05042789},
+  HAL_VERSION = {v1},
 }
