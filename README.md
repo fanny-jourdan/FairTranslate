@@ -9,7 +9,7 @@ The dataset associated with this research is publicly available on Hugging Face.
 
 ## 📄 Paper and Dataset
 
-- **Paper**: [https://arxiv.org/abs/2504.15941](FairTranslate: an English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity) 
+- **Paper**: [FairTranslate: an English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity](https://arxiv.org/abs/2504.15941)
 - **Dataset**: The dataset is hosted on Hugging Face and can be accessed here:  
   [![Hugging Face Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-blue)](https://huggingface.co/datasets/Fannyjrd/FairTranslate_fr)
 
