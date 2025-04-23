@@ -9,7 +9,7 @@ The dataset associated with this research is publicly available on Hugging Face.
 
 ## 📄 Paper and Dataset
 
-- **Paper Title**: *FairTranslate: an English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity*  
+- **Paper**: [https://arxiv.org/abs/2504.15941](FairTranslate: an English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity) 
 - **Dataset**: The dataset is hosted on Hugging Face and can be accessed here:  
   [![Hugging Face Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-blue)](https://huggingface.co/datasets/Fannyjrd/FairTranslate_fr)
 
@@ -26,3 +26,18 @@ This repository provides two Jupyter notebooks that replicate the analysis and v
 2. [**`Analysis_inclusive_gender.ipynb`**:](Analysis_inclusive_gender.ipynb)
    Analyzes the translation of gendered forms of occupation and how inclusive gendered words are translated.
 
+
+## Citation
+
+If you use this code or FairTranslate dataset, please cite the associated paper.
+
+```bibtex
+@misc{jourdan2025fairtranslateenglishfrench,
+      title={FairTranslate: An English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity}, 
+      author={Fanny Jourdan and Yannick Chevalier and Cécile Favre},
+      year={2025},
+      eprint={2504.15941},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.15941}, 
+}
